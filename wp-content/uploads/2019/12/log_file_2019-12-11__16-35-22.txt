@@ -1,0 +1,162 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://mmc.test
+Data file = /srv/www/mmc/public_html/wp-content/uploads/2019/12/demo-content-import-file_2019-12-11__16-35-22.xml
+Widget file = /srv/www/mmc/public_html/wp-content/uploads/2019/12/demo-widgets-import-file_2019-12-11__16-35-22.json
+Customizer file = /srv/www/mmc/public_html/wp-content/uploads/2019/12/demo-customizer-import-file_2019-12-11__16-35-22.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "hero_ipad_iphone" (Media)
+[ERROR] Failed to import "" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "hero_ipad_iphone" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "creogram" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo03" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+[ERROR] Failed to import "blog01" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+[ERROR] Failed to import "blog01" (Media)
+[ERROR] Failed to import "blog05" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+[ERROR] Failed to import "blog01" (Media)
+[ERROR] Failed to import "blog05" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+[ERROR] Failed to import "blog01" (Media)
+[ERROR] Failed to import "blog05" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+[ERROR] Failed to import "blog01" (Media)
+[ERROR] Failed to import "blog05" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+[ERROR] Failed to import "blog01" (Media)
+[ERROR] Failed to import "blog05" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+[ERROR] Failed to import "blog01" (Media)
+[ERROR] Failed to import "blog05" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature_typography" (Media)
+[ERROR] Failed to import "blog01" (Media)
+[ERROR] Failed to import "blog05" (Media)
+
+
+---Importing widgets---
+Blog : 
+
+Search - No Title - Imported
+Theme - Social Icons - We Are Social - Imported
+null-instagram-feed - Instagram - Site does not support widget
+Recent Posts - Recent Posts - Imported
+
+Pages : 
+
+Theme - Contact - Get In Touch - Imported
+Theme - Opening Hours - Support Hours - Imported
+
+Services : 
+
+Theme - Callout - Amazing Features - Imported
+Theme - Technical Documentation - Documents - Imported
+
+FAQ : 
+
+Theme - Contact - Get In Touch - Imported
+Theme - Technical Documentation - Useful Documents - Imported
+
+Homepage : 
+
+Theme - Slider - No Title - Imported
+Theme - Custom Content - 5 Reasons To Use Struct - Imported
+Theme - Testimonials - Happy Customers - Imported
+Theme - Post Type Items - All The Tools You Need - Imported
+Theme - Clients - They Trusted Struct - Imported
+Theme - Video - Introduction - Imported
+Theme - Post Type Items - Still Thinking About It? - Imported
+Theme - Pricing Table - Pricing - Imported
+Theme - Custom Content - 5 Reasons To Use Struct - Imported
+Theme - Video - Introduction - Imported
+Theme - Post Type Items - Features - Imported
+
+Footer #1 : 
+
+Theme - Contact - Get in touch - Imported
+
+Footer #2 : 
+
+Theme - Technical Documentation - Useful Documents - Imported
+
+Footer #3 : 
+
+Text - Struct Inc. - Imported
+
+Footer #4 : 
+
+Theme - Opening Hours - Support times - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

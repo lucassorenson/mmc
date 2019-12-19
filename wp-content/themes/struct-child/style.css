@@ -1,0 +1,119 @@
+/*
+Theme Name: Struct Child
+Template: Struct
+*/
+
+body {
+    background-color: #e7e7e7;
+    font-size: 32px
+}
+
+img {
+    margin: auto;
+    display: block
+}
+
+.mobile-menu-trigger {
+    color: #39B54A;
+}
+
+.hero-title {
+    text-align: center;
+    font-size: 7rem;
+}
+
+.hero-content-text {
+    text-align: center;
+    font-size: 2.8rem
+}
+
+#media_image-5 img {
+    width: 95%;
+    margin: 20px auto 0 auto;
+}
+
+.entry-content {
+    background-color: #c9c9c9;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.entry-content p {
+    font-size: 2rem
+}
+
+.entry-content h2 {
+    font-size: 2.5rem;
+}
+
+#text-6 .textwidget {
+    background-color: #c9c9c9;
+    margin: 0 1rem;
+    padding: 1rem;
+    border-radius: 5px
+}
+
+#text-6 .textwidget p {
+    font-size: 2.2rem;
+    line-height: 1.3em;
+}
+
+#text-8 h3 {
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 5px
+}
+
+#text-8 .textwidget p {
+    font-size: 1.4rem;
+    text-align: center;
+    padding: 5px
+}
+
+.nav ul li a {
+    font-size: 1.41rem
+}
+
+.slide-content-super {
+    top: 40%;
+}
+
+.slide-content-text {
+    padding: 0 !important
+}
+
+.module-contact-info li {
+    font-size: 1.2rem
+}
+
+.col-lg-8 {
+    width: 100% !important
+}
+
+.page-title {
+    font-size: 4rem
+}
+
+.attachment-struct_featured {
+    width: 100%
+}
+
+@media (max-width: 1199px) {
+    .hero-title {
+        font-size: 2.3rem !important
+    }
+    .hero-content-text {
+        text-align: center;
+        font-size: 1.7rem !important
+    }
+    .slide-content-super {
+        top: 55%
+    }
+    .custom-logo {
+        width: 130px;
+    }
+    .page-id-99 #ci-contact-info-5 {
+        display: none
+    }
+}
