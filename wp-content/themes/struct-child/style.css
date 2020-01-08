@@ -19,7 +19,7 @@ img {
 
 .hero-title {
     text-align: center;
-    font-size: 7rem;
+    font-size: 6rem;
 }
 
 .hero-content-text {
@@ -102,6 +102,37 @@ img {
 
 .attachment-struct_featured {
     width: 100%
+}
+
+.wp-block-group::after {
+    content: " ";
+    display: block;
+    position: relative;
+    height: 3px;
+    background: gray;
+    width: 95%;
+    left: 2.5%;
+    margin: 80px 0
+}
+
+.wp-block-group:last-child::after {
+    display: none
+}
+
+.wpcf7-captchac {
+    width: 10rem
+}
+
+.entry-content p label {
+    font-size: 1.5rem
+}
+
+.ci-active-slide .slide-content-text {
+    background-color: rgba(230, 230, 230, .5)
+}
+
+.navigation a {
+    color: black
 }
 
 @media (max-width: 1199px) {
