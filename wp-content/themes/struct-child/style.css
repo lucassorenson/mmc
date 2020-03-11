@@ -18,6 +18,10 @@ img {
     display: block
 }
 
+.nav {
+    font-size: 14px;
+}
+
 .mobile-menu-trigger {
     color: #39B54A;
 }
