@@ -3,7 +3,11 @@ Theme Name: Struct Child
 Template: Struct
 */
 
-@import url(//db.onlinewebfonts.com/c/ef6bdf5ef216552c7e9869841e891ca0?family=Arial+Rounded+MT+Bold);
+@font-face {
+    font-family: nunito;
+    src: url(https://lucassorenson.github.io/mmc/wp-content/themes/struct-child/Nunito-Bold.ttf)
+}
+
 body {
     background-color: #e7e7e7;
     font-size: 32px
@@ -21,7 +25,7 @@ img {
 .hero-title {
     text-align: center;
     font-size: 5rem;
-    font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
+    font-family: nunito, sans-serif;
     font-variant: small-caps;
 }
 
